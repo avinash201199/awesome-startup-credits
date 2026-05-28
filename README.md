@@ -219,7 +219,7 @@ Please **only add programs with an official source** and verify the offer is cur
 
 ## License
 
-Released under [CC0 / MIT] — free to use, share, and adapt. *(Choose your preferred license.)*
+Released under [MIT] — free to use, share, and adapt. *(Choose your preferred license.)*
 
 ---
 

@@ -149,6 +149,7 @@ Essential for B2B startups selling to enterprise (SOC 2, ISO 27001).
 | Program | Offer | Notes |
 |---------|-------|-------|
 | **[Stripe Atlas](https://stripe.com/atlas)** | US C-Corp incorporation, EIN, founder agreements ($500 flat) | Unlocks downstream credits. |
+| **[LLC Class](https://llcclass.com)** | [Wyoming LLC registration](https://llcclass.com/wyoming) + [registered agent](https://llcclass.com/what-is-llc-registered-agent) + EIN for non-US founders | Lower-cost Wyoming alternative to Stripe Atlas; enables Stripe and Mercury bank. |
 | **[Clerky](https://www.clerky.com/)** | Startup legal paperwork | Incorporation & fundraising docs. |
 | **[Carta](https://carta.com/)** | Cap table management | Startup tiers available. |
 

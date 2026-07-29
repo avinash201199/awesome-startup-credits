@@ -82,6 +82,7 @@ If you're building AI products, these credits go directly toward inference, trai
 | **[Notion for Startups](https://www.notion.so/startups)** | $500+ credits (often via partners) | Open / partner-unlocked | Docs, wiki, project mgmt. |
 | **[PostHog](https://posthog.com/startups)** | 1 yr free Growth plan, up to 1.2B events / 200K MTUs | Early-stage | Product analytics. |
 | **[Muscula](https://muscula.com/)** | Free for one website or app; Business ($14/mo) | Available to all developers and startups | AI-powered observability platform with MCP and CLI integration for error monitoring and debugging. |
+| **[Clerk for Startups](https://clerk.com/startups)** | Clerk Pro features at a discount | Up to 1 year after launch, up to $5M in funding | 50K monthly retained users are already free on every plan |
 
 ---
 

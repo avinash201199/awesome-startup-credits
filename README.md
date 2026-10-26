@@ -34,6 +34,7 @@ The big cloud providers subsidize startups heavily to win long-term infrastructu
 
 | Program | Credits (up to) | Eligibility | Notes |
 |---------|----------------|-------------|-------|
+| **[IDrive e2](https://www.idrive.com/)** | 100 TB free S3-compatible object storage for qualified startups | Incorporation proof or accelerator membership (YC, Techstars, 500 Global) | Backup/storage. |
 | **[AWS Activate](https://aws.amazon.com/activate/)** | $1K (self-serve)  $100K (Portfolio)  $300K (Gen AI tier) | $1K open to all; higher tiers require VC/accelerator/incubator affiliation | Largest & oldest program. Credits valid ~2 years. Bedrock AI model credits available. |
 | **[Microsoft for Startups Founders Hub](https://www.microsoft.com/en-us/startups)** | $1K–$5K (self-serve)  $150K (Investor Network) | $1K–$5K open to all, no VC required | Best self-serve entry point. Includes Azure OpenAI Service, M365, GitHub Enterprise. |
 | **[Google for Startups Cloud Program](https://cloud.google.com/startup)** | $100K (Start)  $200K–$350K (Scale tier) | Higher tiers via accelerator/VC partnership | Includes Firebase, AI platform, and 30+ partner perks. |
@@ -54,6 +55,7 @@ If you're building AI products, these credits go directly toward inference, trai
 
 | Program | Credits (up to) | Eligibility | Notes |
 |---------|----------------|-------------|-------|
+| **[Greptile](https://www.greptile.com)** | 500 free credits/month for 6 months | Pre-Series A, <$2M revenue in past 12 months | AI code review. |
 | **[Anthropic Startup Program](https://www.anthropic.com/)** | $25K–$100K+ Claude API credits | Backed by Anthropic's VC partners; AI builders | Priority rate limits + early model access. |
 | **[OpenAI for Startups](https://openai.com/)** | $2,500 (self)  Tier 2/3 via VC referral | Self-serve small tier; larger via VC | Often accessed via Brex/Ramp/Azure too. |
 | **[NVIDIA Inception](https://www.nvidia.com/en-us/startups/)** | $100K+ in software, GPU discounts, DLI training | **Free**, ~10 min to apply | Unlocks elevated AWS Activate tiers. Best first stop for AI startups. |
@@ -72,6 +74,7 @@ If you're building AI products, these credits go directly toward inference, trai
 
 | Program | Offer | Eligibility | Notes |
 |---------|-------|-------------|-------|
+| **[PagerDuty](https://www.pagerduty.com/)** | 6 months of AI-Powered Operations free | New customers at Seed, Series A, or Series B | On-call / incident response. |
 | **[GitHub for Startups](https://github.com/enterprise/startups)** | 20 seats Enterprise free 12 mo + $10K credits | Via partner network | Covers Copilot & Advanced Security. |
 | **[GitLab for Startups](https://about.gitlab.com/solutions/startups/)** | 12 months Ultimate free | Early-stage, <50 employees | Full DevOps platform. |
 | **[Datadog for Startups](https://www.datadoghq.com/partner/startups/)** | Up to $100K credits over 1 year | Funded startups | APM, logs, metrics, RUM, synthetics. |
@@ -89,6 +92,8 @@ If you're building AI products, these credits go directly toward inference, trai
 
 | Program | Offer | Eligibility | Notes |
 |---------|-------|-------------|-------|
+| **[SurrealDB](https://surrealdb.com)** | $5,000 in Cloud + Agent Memory credits for 12 months | Seed–Series A startups building on SurrealDB | Multi-model database. |
+| **[CloudAMQP](https://www.cloudamqp.com/)** | 70%/50%/25% off LavinMQ in years 1/2/3 + support | Early-stage; reviewed on age, funding, team, use-case | Managed message broking. |
 | **[MongoDB for Startups](https://www.mongodb.com/startups)** | Atlas credits + Voyage AI tokens + GTM support | Via VC/accelerator or direct | Document DB. |
 | **[Redis for Startups](https://redis.io/)** | Up to $25K Redis Cloud + AI consult | Startup program | Caching / vector. |
 | **[Neo4j Aura](https://neo4j.com/)** | Aura credits + expert guidance | Startup program | Graph database for AI. |
@@ -115,6 +120,7 @@ These platforms **bundle** deals from dozens of other providers — open an acco
 
 | Program | Offer | Eligibility | Notes |
 |---------|-------|-------------|-------|
+| **[Tally](https://tally.so/)** | Tally Pro startup discount via partners | Member of a partner program with partner code | Forms & surveys. |
 | **[HubSpot for Startups](https://www.hubspot.com/startups)** | Up to 90% off year 1 (CRM, marketing, sales) | Via partner accelerator/VC | Tiered discount by funding stage. |
 | **[Mailchimp](https://mailchimp.com/)** | Startup credits/discounts | Startup program | Email marketing. |
 | **[Amplitude for Startups](https://amplitude.com/startups)** | 1 yr free Growth plan (Scholarship) | Pre-seed  Series C tiers | Product analytics. |
@@ -140,6 +146,7 @@ Essential for B2B startups selling to enterprise (SOC 2, ISO 27001).
 
 | Program | Offer | Eligibility | Notes |
 |---------|-------|-------------|-------|
+| **[Mailazy](https://mailazy.com/)** | 65% off first year of Pro | <12 months old, <$3M raised, <25 people | Transactional email API. |
 | **[Twilio for Startups](https://www.twilio.com/en-us/startups)** | API credits (SMS, voice, WhatsApp, video) | Startup program | + education & Signal Conf access. |
 | **[Twilio Segment for Startups](https://segment.com/industry/startups/)** | Team Plan free up to 2 yrs + $1M partner software | <2 yrs old, <$5M raised | Bundles AWS, Intercom, Amplitude. |
 

@@ -111,6 +111,7 @@ These platforms **bundle** deals from dozens of other providers — open an acco
 | **[Ramp](https://ramp.com/)** | AWS, OpenAI credits + 100+ SaaS discounts | Business account | Similar to Brex. |
 | **[Mercury](https://mercury.com/)** | GitHub (1yr free), AWS + partner perks | Business account, no $50K minimum | Friendlier for pre-funded founders. |
 | **[Stripe Atlas](https://stripe.com/atlas)** | AWS + Notion credits + partner deals | $500 incorporation fee | Cascade-unlocks many programs. |
+| **[The Grant Index](https://thegrantindex.com)** | Directory of 366 grants, cloud/AI credits and perks from 283 providers | Free, no signup | Includes an eligibility checker. |
 
 ---
 

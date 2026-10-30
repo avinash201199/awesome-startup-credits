@@ -205,6 +205,7 @@ Smart founders **sequence** applications to maximize runway. A common path:
 - **Track expiration dates** — most credits expire in 12–24 months. Keep a spreadsheet of approvals, amounts, and renewal terms.
 - **Don't build critical dependencies on expiring credits** — use them for dev, testing, and experimentation.
 - **Beware stacking caveats** — e.g., claiming AWS via Brex/Mercury may reduce your direct AWS Activate amount.
+- **Check eligibility before you apply** — [aifree.dev/startup-ai-credits](https://aifree.dev/startup-ai-credits) lists verified startup programs with their funding, company-age and referral rules and the date each was last checked.
 
 ---
 

@@ -124,6 +124,7 @@ These platforms **bundle** deals from dozens of other providers — open an acco
 | **[Customer.io](https://customer.io/)** | Up to 12 months discounted | Startup program | Messaging / lifecycle. |
 | **[Intercom for Startups](https://www.intercom.com/early-stage)** | 90% off year 1 | Early-stage, <$5M raised | Customer messaging. |
 | **[Zendesk for Startups](https://www.zendesk.com/startups/)** | 6 months free | Eligible startups | Customer support. |
+| **[Calven Startup Program](https://calven.ai/startups)** | 75% off Professional for 12 months: $200/mo billed annually (normally $800) or $250/mo monthly (normally $1,000) | <$1M ARR and <10 employees (VC-backed or bootstrapped) | AI product marketing: competitive intel, win/loss, positioning. |
 
 ---
 

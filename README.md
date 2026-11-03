@@ -46,6 +46,7 @@ The big cloud providers subsidize startups heavily to win long-term infrastructu
 | **[Scaleway](https://www.scaleway.com/)** | Varies | EU-focused programs | European data residency. |
 | **[Vultr](https://www.vultr.com/)** | Up to $120K | Startup program | GPU instances + storage. |
 | **[Akamai (Linode) Rise](https://www.linode.com/)** | Varies | AI/startup program | Offers GPU instances. |
+| **[Fly.io for Startups](https://fly.io/startups/)** | $15K | Seed or Series A, backed by a VC or accelerator | Credits last one year and cover Machines, Sprites, and Managed Postgres. Includes a shared Slack channel with the Fly.io team. |
 
 ---
 

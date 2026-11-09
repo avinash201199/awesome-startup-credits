@@ -211,6 +211,7 @@ Smart founders **sequence** applications to maximize runway. A common path:
 ## Related Resources
 
 - [AI Credit Radar](https://aicreditradar.com/) - Searchable, dated list of free AI API tiers, signup credits and AI startup programs.
+- [Token Thrift Credits Finder](https://tokenthrift.io/credits/finder) - Free quiz that matches founders to open startup credit programs; each program page shows a last-checked date.
 
 ---
 

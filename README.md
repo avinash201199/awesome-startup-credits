@@ -169,6 +169,7 @@ Joining these (even remote/free cohorts) unlocks the **highest credit tiers** ac
 | **[Antler](https://www.antler.co/)** | Early/pre-seed, global. |
 | **[500 Global](https://500.co/)** | Seed-stage accelerator. |
 | **[AWS Generative AI Accelerator](https://aws.amazon.com/startups/)** | Up to $1M credits for select cohorts. |
+| **[Creditable Builder Program](https://creditable.vc/)** | Founder support with a funded $200/month AI plan and potential provider-dependent startup credits. Pre-seed and seed welcome from any sector or country. Proposed 7% equity under a separate agreement. [Apply](https://creditable.vc/apply). |
 
 ---
 

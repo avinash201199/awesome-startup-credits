@@ -211,6 +211,7 @@ Smart founders **sequence** applications to maximize runway. A common path:
 ## Related Resources
 
 - [AI Credit Radar](https://aicreditradar.com/) - Searchable, dated list of free AI API tiers, signup credits and AI startup programs.
+- [Perq](https://perq.sh) - Directory of verified free AI credits and startup perks, with an agent skill ([perq-skill](https://github.com/f-o-x11/perq-skill)) and an MCP server (`https://perq.sh/mcp`). Operated by Avatar 8 LLC.
 
 ---
 

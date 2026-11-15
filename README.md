@@ -211,6 +211,7 @@ Smart founders **sequence** applications to maximize runway. A common path:
 ## Related Resources
 
 - [AI Credit Radar](https://aicreditradar.com/) - Searchable, dated list of free AI API tiers, signup credits and AI startup programs.
+- [Bootstrapped Credits](https://github.com/aidenixai/bootstrapped-credits) - Startup credits you can get without VC: what bootstrapped companies actually get, how long it lasts, when it was last checked.
 
 ---
 

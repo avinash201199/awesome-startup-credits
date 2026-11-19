@@ -211,6 +211,7 @@ Smart founders **sequence** applications to maximize runway. A common path:
 ## Related Resources
 
 - [AI Credit Radar](https://aicreditradar.com/) - Searchable, dated list of free AI API tiers, signup credits and AI startup programs.
+- [How to get free AWS credits: a complete guide (Clowdey)](https://clowdey.ai/blog/free-aws-credits/) - Guide to AWS Free Tier, Activate Founders/Portfolio, student, research and nonprofit credits, with eligibility and rules that void credits.
 
 ---
 

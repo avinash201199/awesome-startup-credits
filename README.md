@@ -136,6 +136,7 @@ Essential for B2B startups selling to enterprise (SOC 2, ISO 27001).
 | **[Vanta](https://www.vanta.com/)** | Startup discounts | Via partner/VC | SOC 2 / ISO automation. |
 | **[Drata](https://drata.com/)** | Startup discounts | Via partner/VC | Compliance automation. |
 | **[1Password for Startups](https://1password.com/)** | Free/discounted | Eligible startups | Password / secrets mgmt. |
+| **[OmniForge Launch Audit Suite](https://zcoldwater.github.io/omniforge-skills/black-friday-2026-developer-security-deal.html)** | Free diagnostics + 83% off 3-in-1 Pro Fix Pass ($29 -> $5 one-time) | All startups & indie devs (through Dec 1, 2026) | Read-only Web/Supabase security, SPF/DKIM/DMARC email DNS, `/llms.txt` GEO & 100% free 78-TLD/USPTO checker. |
 
 ---
 

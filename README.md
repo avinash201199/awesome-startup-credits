@@ -211,6 +211,7 @@ Smart founders **sequence** applications to maximize runway. A common path:
 ## Related Resources
 
 - [AI Credit Radar](https://aicreditradar.com/) - Searchable, dated list of free AI API tiers, signup credits and AI startup programs.
+- [StartupPerks](https://startupperks.co/) - Searchable catalog of 2,600+ startup credits, free plans and discounts, each citing the provider's own terms page, with a matcher by stage and funding. Also tracks [Black Friday 2026 software deals for startups](https://startupperks.co/black-friday).
 
 ---
 

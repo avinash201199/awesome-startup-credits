@@ -124,6 +124,7 @@ These platforms **bundle** deals from dozens of other providers — open an acco
 | **[Customer.io](https://customer.io/)** | Up to 12 months discounted | Startup program | Messaging / lifecycle. |
 | **[Intercom for Startups](https://www.intercom.com/early-stage)** | 90% off year 1 | Early-stage, <$5M raised | Customer messaging. |
 | **[Zendesk for Startups](https://www.zendesk.com/startups/)** | 6 months free | Eligible startups | Customer support. |
+| **[Lorikeet for Startups](https://www.lorikeetcx.ai/startups)** | US$500 AI credits (code STARTUPS500) | Startups, pay as you go | AI customer support agent for chat, email, voice and SMS, plus a free shared inbox and help centre. |
 
 ---
 
